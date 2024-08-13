@@ -11,7 +11,7 @@ Using the site, we know that this is the image of Daxi Bridge, which is in the T
 
 We then used Google Maps to find the coordinates.
 
-The coordinates: 24.8850230994896, 121.28347765279547
+The coordinates: (24.8850230994896, 121.28347765279547)
 
 But we have to round it up as stated in the question.
 
